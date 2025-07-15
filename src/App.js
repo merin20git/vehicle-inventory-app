@@ -11,7 +11,6 @@ function App() {
       <AddVehicle/>
   <SearchVehicle/>
   <DeleteVehicle/>
-  <DeleteVehicle/>
   <ViewAllVehicle/>
     </div>
   );
